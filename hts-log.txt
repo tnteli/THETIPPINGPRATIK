@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 07 Mar 2025 17:19:34 at https://therealprediction.online/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://therealprediction.online/ -O1 "C:\Users\perfect\Desktop\annaofficial" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:19:50	Error: 	"Not Found" (404) at link https://therealprediction.online/a (from https://connect.facebook.net/en_US/fbevents.js)
+17:19:50	Error: 	"Not Found" (404) at link https://therealprediction.online/POST (from https://connect.facebook.net/en_US/fbevents.js)
+17:19:50	Error: 	"Not Found" (404) at link https://therealprediction.online/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+17:19:50	Error: 	"Not Found" (404) at link https://therealprediction.online/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+17:19:50	Error: 	"Not Found" (404) at link https://therealprediction.online/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 21 links scanned, 15 files written (1384101 bytes overall) [1043563 bytes received at 65222 bytes/sec], 524818 bytes transferred using HTTP compression in 14 files, ratio 28%, 1.1 requests per connection
+(5 errors, 0 warnings, 0 messages)
